@@ -1,7 +1,7 @@
 # Hi, I'm LEONARDO 👋
 
 ### 🎓 Dual Background: Quantitative Finance & Music
-* **MSc Quantitative Finance (DIFIQ)** | Université Paris-Dauphine & ENSAE Paris
+* **Quantitative Finance (DIFIQ)** | Université Paris-Dauphine & ENSAE Paris
 * **Data Analytics & Economics** | Université Paris 1 Panthéon-Sorbonne
 * **Saxophonist** | National Conservatory of Music (Peru) 🎷
 
