@@ -4,7 +4,7 @@ Quantitative Finance & Data Analysis :
 
 * Economics graduate - Université Paris 1 Panthéon-Sorbonne
 * Sorbonne Data Analytics - Université Paris 1 Panthéon-Sorbonne
-* Executif Master Finance Quantitative (ex DIFIQ) - double diplôme Université Paris-Dauphine & ENSAE Paris
+* Executif Master Finance Quantitative (ex DIFIQ) - Université Paris-Dauphine & ENSAE Paris (double diplôme)
 * Saxophonist graduate - National Conservatory of Music (Peru)
 
 ---
