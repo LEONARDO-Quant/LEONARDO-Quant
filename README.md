@@ -1,58 +1,27 @@
-# Hi, I'm LEONARDO
+# Hi, I'm LEONARDO 👋
 
-Quantitative Finance & Data Analysis :
-
-* Economics graduate - Université Paris 1 Panthéon-Sorbonne
-* Sorbonne Data Analytics - Université Paris 1 Panthéon-Sorbonne
-* Executif Master Finance Quantitative (ex DIFIQ) - Université Paris-Dauphine & ENSAE Paris (double diplôme)
-* Saxophonist graduate - National Conservatory of Music (Peru)
+### 🎓 Dual Background: Quantitative Finance & Music
+* **MSc Quantitative Finance (DIFIQ)** | Université Paris-Dauphine & ENSAE Paris
+* **Data Analytics & Economics** | Université Paris 1 Panthéon-Sorbonne
+* **Saxophonist** | National Conservatory of Music (Peru) 🎷
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
+I bridge the gap between **Economic theory** and **Quantitative modeling**. My focus is on high-dimensional financial data and volatility.
 
-I am currently specializing in quantitative finance and data analysis, with a strong interest in financial markets and data-driven modeling.
-
-I focus on:
-- 📊 Econometrics & time series analysis  
-- 📉 Volatility modeling (GARCH-type models)  
-- 🤖 Machine learning for financial data  
-- 🌍 Macro-financial dynamics  
-
-💡 Targeting front-office quantitative research roles.
+* 📊 **Specialized in:** GARCH-type models, Time Series & Machine Learning for Finance.
+* 💡 **Current Goal:** Quantitative Research in Front-Office environments.
+* 🎹 **Side Interest:** Signal processing and the mathematics of music.
 
 ---
 
-## 🧠 Projects
-
-### 📈 Volatility Forecasting using GARCH Models
-- Modeling and forecasting market volatility  
-- Analysis of volatility clustering and risk dynamics  
-
----
-
-### 🤖 Stock Return Prediction using Machine Learning
-- ML models applied to financial time series  
-- Performance comparison with traditional models  
-
----
-
-### 📊 Impact of Interest Rates on Equity Markets
-- Econometric modeling (VAR / regression)  
-- Macro-financial interpretation  
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-E34F26?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-2E8B57?style=for-the-badge&logo=sas&logoColor=white)
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-F28033?style=for-the-badge&logo=databricks&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=apache&logoColor=white)
@@ -60,18 +29,14 @@ I focus on:
 
 ---
 
-## 📈 Quant Focus
-
-- Time series modeling  
-- Volatility & risk modeling  
-- Financial machine learning  
-- Market analysis  
+### 🧠 Featured Projects
+* [**Volatility Forecasting**](lien-vers-ton-repo) : GARCH models to capture volatility clustering in equity markets.
+* [**ML for Stock Returns**](lien-vers-ton-repo) : Comparing LSTM vs. Classical Econometrics for time series.
+* [**Macro-Financial Dynamics**](lien-vers-ton-repo) : VAR models exploring the impact of interest rates on equities.
 
 ---
 
-## 🤝 Contact
-
-📫 Feel free to connect or reach out
-
-ruben.leonardo.zevallos@gmail.com
+### 🤝 Connect with me
+📫 **Email:** [ruben.leonardo.zevallos@gmail.com](mailto:ruben.leonardo.zevallos@gmail.com)
+🔗 **LinkedIn:** [Ton-Lien-LinkedIn]
 
