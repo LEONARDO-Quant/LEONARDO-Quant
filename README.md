@@ -33,7 +33,7 @@ I bridge the gap between **Economic theory** and **Quantitative modeling**. My f
 * [**Volatility Forecasting**](lien-vers-ton-repo) : GARCH models to capture volatility clustering in equity markets.
 * [**ML for Stock Returns**](lien-vers-ton-repo) : Comparing LSTM vs. Classical Econometrics for time series.
 * [**Portfolio Strategie Simulator App**](https://github.com/LEONARDO-Quant/Portfolio-Strategie-Simulator-App) : Performance testing and returns analysis for multi-asset equity portfolios.
-* [**NVIDIA**](https://github.com/LEONARDO-Quant/NVIDIA-Stock-Price-Prediction/tree/main) : 
+* [**NVIDIA Stock Return Prediction**](https://github.com/LEONARDO-Quant/NVIDIA-Stock-Price-Prediction/tree/main) : 
 
 ---
 
