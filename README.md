@@ -32,7 +32,7 @@ I bridge the gap between **Economic theory** and **Quantitative modeling**. My f
 ### 🧠 Featured Projects
 * [**Portfolio Strategie Simulator App**](https://github.com/LEONARDO-Quant/Portfolio-Strategie-Simulator-App) : Performance testing and returns analysis for multi-asset equity portfolios.
 * [**NVIDIA Stock Return Prediction**](https://github.com/LEONARDO-Quant/NVIDIA-Stock-Price-Prediction/tree/main) : Developing a Multi-Model ML Framework for predictive return analysis of NVDA stock.
-* [**CROUS Housing Price Analytics**](https://github.com/LEONARDO-Quant/CROUS-Housing-Price-Analytics) : 
+* [**CROUS Housing Price Analytics**](https://github.com/LEONARDO-Quant/CROUS-Housing-Price-Analytics) : Quantitative analysis using a python scraping engine.
 * [**Customer Segmentation & Value Prediction**](https://github.com/LEONARDO-Quant/Customer-Segmentation-Value-Prediction-with-PySpark) : Developing a model segmentation with PySpark.
 
 ---
